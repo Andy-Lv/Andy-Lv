@@ -5,7 +5,7 @@
 ### I'm GuoQiang Lv
 
 - A student from WuHan University   SGG
-- 🌱 Currently living in Hangzhou, China.
+- 🌱 Currently living in WuHan, China.
 - 💬 Keep in touch with me on [Guoqiang@Lv.email.cn](mailto:Guoqiang@Lv.email.cn)
 
 ### 🛠 技术栈 | Tech Stack
