@@ -22,7 +22,7 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Andy-Lv&hide=c,roff,scheme,qml,matlab&langs_count=5&theme=dracula&exclude_repo=zoo-project)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Andy-Lv&hide=c,roff,scheme,qml,matlab,MakeFile&langs_count=5&theme=dracula&exclude_repo=zoo-project)
 
 ![Andy-Lv's github stats](https://github-readme-stats.vercel.app/api?username=Andy-Lv&count_private=true&show_icons=true&theme=dracula)
 
