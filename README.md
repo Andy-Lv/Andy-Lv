@@ -10,7 +10,7 @@
 
 ### 🛠 技术栈 | Tech Stack
 
-- 💻 &#160; ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=Linux&logoColor=FCC624)
+- 💻 &#160; ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=Archlinux&logoColor=33CCFF)
 ![Windows](https://img.shields.io/badge/-Windows-333333?style=flat&logo=Windows&logoColor=33CCFF)
 ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C)
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=Python)
