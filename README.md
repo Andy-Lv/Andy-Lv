@@ -12,7 +12,7 @@
 
 - 💻 &#160; ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=Archlinux&logoColor=33CCFF)
 ![Windows](https://img.shields.io/badge/-Windows-333333?style=flat&logo=Windows&logoColor=33CCFF)
-![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C)
+![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=Cplusplus&logoColor=33CCFF)
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=Python)
 - 🌐 &#160; ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=JavaScript)
